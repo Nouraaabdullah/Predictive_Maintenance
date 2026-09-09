@@ -5,6 +5,8 @@
 **Advanced Machine Learning Methods — SDAIA Academy**
 
 This repository contains the Final Applied Project for the Advanced Machine Learning Methods course at SDAIA Academy.
+Official SDAIA Academy GitHub: 
+https://github.com/SDAIAAcademy
 
 ---
 
@@ -407,3 +409,4 @@ Install the required packages:
 
 ```bash
 pip install -r requirements.txt
+--
